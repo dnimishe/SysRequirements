@@ -1,0 +1,11 @@
+(1) will the school system be able to implement or downlad a software to implement a solution on to 
+all their devices?
+
+(2)Would the district be willing to have a system that utilizes the student information to 
+process the attendances, and link it to the progress report databases?
+
+(3) How does the district want to notify each one of the teachers about the student absences?
+Immediately through the app or directly to the superviors of each school?
+
+(4) What if a teacher misses or is delayed in recording attendance? How do they want the 
+situtation handled in the software?
