@@ -1,0 +1,6 @@
+1. Does each teacher/administrator have a unique login they can use?
+If so, they can then use this to be assigned each student they have in their class. 
+
+2. Are the report cards made available electronically? If not this needs to be done immediately
+
+3. Does every administrator need access to every student? If not, you may as well keep each student's information locally stored with that teacher. This will mitigate the need for using the Internet, but it does put a lot of power with the teacher which can potentially be dangerous. 
