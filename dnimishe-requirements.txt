@@ -4,3 +4,11 @@ If so, they can then use this to be assigned each student they have in their cla
 2. Are the report cards made available electronically? If not this needs to be done immediately
 
 3. Does every administrator need access to every student? If not, you may as well keep each student's information locally stored with that teacher. This will mitigate the need for using the Internet, but it does put a lot of power with the teacher which can potentially be dangerous. 
+
+
+
+Avika's response:
+
+1. I believe the teacher/admin would have their own logins so the system can recognise which class each attendance record is for. 
+
+2. Why do the electronic report cards need to be done immediately?
